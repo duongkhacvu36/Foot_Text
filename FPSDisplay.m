@@ -90,7 +90,7 @@ CGRect frame = CGRectMake([UIScreen mainScreen].bounds.size.width / 4 - 4, [UISc
 
     self.displayLabel.text = [NSString stringWithFormat:@" Dương Khắc Vũ "];//fps
 
-    self.displayLabel.textColor = [UIColor yellowColor];
+    self.displayLabel.textColor = [UIColor colorWithRed:arc4random()%256/255.0 green:arc4random()%256/255.0 blue:arc4random()%256/255.0 alpha:1];
 
     self.displayLabel.font = [UIFont boldSystemFontOfSize:8];
 }
