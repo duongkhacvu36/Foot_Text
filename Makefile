@@ -4,7 +4,7 @@ FINALPACKAGE = 1
 FOR_RELEASE = 1
 include $(THEOS)/makefiles/common.mk
 
-TWEAK_NAME = hahios
+TWEAK_NAME = Foot_Text
 
 $(TWEAK_NAME)_CFLAGS =  -fobjc-arc -Wno-deprecated-declarations -Wno-unused-variable -Wno-unused-value
 
