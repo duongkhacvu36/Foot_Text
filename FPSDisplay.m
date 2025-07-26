@@ -88,7 +88,7 @@ CGRect frame = CGRectMake([UIScreen mainScreen].bounds.size.width / 4 - 4, [UISc
     [mustr appendFormat:@"%@",self.getSystemDate];
 
 
-    self.displayLabel.text = [NSString stringWithFormat:@" hoanganh (hahios) "];//fps
+    self.displayLabel.text = [NSString stringWithFormat:@" Dương Khắc Vũ "];//fps
 
     self.displayLabel.textColor = [UIColor yellowColor];
 
