@@ -1,9 +1,9 @@
-Package: hahios
-Name: FPS Rainbow Color
+Package: Dương Khắc Vũ
+Name: Dương Khắc Vũ
 Depends: mobilesubstrate
-Description:HoangAnhHackiPA (HAHiOS)
-Maintainer: HoangAnh
-Author: HoangAnh
+Description: Dương Khắc Vũ
+Maintainer: Dương Khắc Vũ
+Author: Dương Khắc Vũ
 Section: Tweaks
 Homepage: none
 Architecture: iphoneos-arm
