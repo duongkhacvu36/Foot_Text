@@ -1,10 +1,10 @@
-Package: hahios
+Package: DKV36
 Name: FPS Rainbow Color
 Depends: mobilesubstrate
 Version: 1.0
 Architecture: iphoneos-arm
-Description:HoangAnhHackiPA (HAHiOS)
-Maintainer: HoangAnh
-Author: HoangAnh
+Description: DKV36
+Maintainer: DKV36
+Author: DKV36
 Section: Tweaks
 Homepage: none
