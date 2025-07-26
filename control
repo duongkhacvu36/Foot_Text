@@ -1,10 +1,10 @@
-Package: DKV36
-Name: FPS Rainbow Color
+Package: Dương Khắc Vũ
+Name: Dương Khắc Vũ
 Depends: mobilesubstrate
 Version: 1.0
 Architecture: iphoneos-arm
-Description: DKV36
-Maintainer: DKV36
-Author: DKV36
+Description: Dương Khắc Vũ
+Maintainer: Dương Khắc Vũ
+Author: Dương Khắc Vũ
 Section: Tweaks
 Homepage: none
